@@ -1,0 +1,3 @@
+# chibicoin
+
+Currently in dev.
